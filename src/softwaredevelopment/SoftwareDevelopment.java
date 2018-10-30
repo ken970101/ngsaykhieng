@@ -18,6 +18,7 @@ public class SoftwareDevelopment {
         // TODO code application logic here
         
         System.out.println("Hello World!!");
+        System.out.println("Ni mama zuo ji");
     }
     
 }
